@@ -1,2 +1,4 @@
 # Traffict-LIght-Using-YOLOv4-and-Fuzzy-Mamdani
  "Traffic Light Control: YOLOv4 detects lights in real-time. Fuzzy Mamdani makes intelligent decisions, optimizing traffic flow for safety and efficiency."
+
+ This project aims to develop an innovative traffic management system utilizing state-of-the-art technologies: YOLOv4 for real-time traffic light detection and Fuzzy Mamdani for intelligent decision-making. By combining the capabilities of YOLOv4's robust object detection with the adaptability of Fuzzy Mamdani controllers, the system can accurately identify and analyze traffic light states in dynamic environments. The YOLOv4 model provides real-time detection of traffic lights, while the Fuzzy Mamdani controller processes this information to make intelligent decisions regarding vehicle traffic flow. Through this integration, the system optimizes traffic light control, enhances safety, and improves overall efficiency in urban transportation scenarios.
